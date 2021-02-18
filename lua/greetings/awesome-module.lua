@@ -1,4 +1,4 @@
 local function greet()
-  print('Hello World')
+  print('Testing')
 end
 return greet
